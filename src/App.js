@@ -1,9 +1,10 @@
 import React from "react";
+import Sidebar from "./pages/components/Sidebar/Sidebar";
 
 const App = () => {
   return (
     <>
-      <h1>Portafolio Jonhsmith</h1>
+      <Sidebar />
     </>
   );
 };
